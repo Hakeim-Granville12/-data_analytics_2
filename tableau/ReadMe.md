@@ -3,11 +3,12 @@ This is my tableau project: https://public.tableau.com/shared/3SDY3CW4H?:display
 
 This project was done with the help of:
 
-Thierno
-Lsya
-Ayo
-Latoya
-Gregoire
-sanaria
+Thierno,
+Lsya,
+Ayo,
+Latoya,
+Gregoire,
+and 
+sanaria. Thanks for viewing enjoy!
 
 
